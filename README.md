@@ -9,6 +9,8 @@
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@toastedscorpion/30-nites-of-code)  
   ![@toastedscorpion #30NitesOfCode](https://www.codedex.io/api/petStatus?user=toastedscorpion)
+Bones the Tiny
+
 # Introduction to GitHub
 
 _Get started using GitHub in less than an hour._
