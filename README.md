@@ -8,7 +8,7 @@
 -->
 ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@toastedscorpion/30-nites-of-code)  
-  ![@toastedscorpion #30NitesOfCode](https://www.codedex.io/api/petStatus?user=toastedscorpion)
+  ![@toastedscorpion #30NitesOfCode](https://www.codedex.io/api/petStatus?user=toastedscorpion)<br>
 Bones the Tiny
 
 # Introduction to GitHub
